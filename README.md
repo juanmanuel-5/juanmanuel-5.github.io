@@ -1,2 +1,2 @@
 # CE-DALP
-Dossier promocional del Curso de Especializaicón en Desarrollo de Aplicaciones en Lenguaje Python
+Dossier promocional del Curso de Especialización en Desarrollo de Aplicaciones en Lenguaje Python
